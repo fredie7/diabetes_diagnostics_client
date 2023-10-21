@@ -1,3 +1,3 @@
-[submodule "src/fredie7"]
-    path = src/fredie7
-    url = git://github.com/fredie7/diabetes_diagnostics_client
+[submodule "dist"]
+    path = dist
+    url = git://github.com/fredie7/diabetes_diagnostics_client.git
